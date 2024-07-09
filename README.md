@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="">Jordy Leon</a> 👋</h1>
+</div>
 
 <!--
 **poseidonct27/poseidonct27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
