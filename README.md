@@ -2,6 +2,8 @@
 <h1 align="center">Hola, soy <a href="">Jordy Leon</a> 👋</h1>
 </div>
 
+<img src="https://i.imgur.com/Tr2AzTa.png">
+
 <!--
 **poseidonct27/poseidonct27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
