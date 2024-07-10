@@ -11,7 +11,7 @@
 - 🎥 ChatGPT creador de [Prompt](https://chatgpt.com/)
 - ✏️ programación con [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - 📗 [HTML y CSS](https://es.khanacademy.org/computing/computer-programming/html-css#:~:text=HTML%20es%20el%20lenguaje%20de,%2C%20fuente%2C%20dise%C3%B1o%20y%20m%C3%A1s.)
-- 🧑‍🏫 Estudiante de [AppCademy](https://www.aluracursos.com/)
+- 🧑‍🏫 Estudiante de [aluracursos](https://www.aluracursos.com/)
 <br>
 
 
